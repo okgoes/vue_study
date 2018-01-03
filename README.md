@@ -1,6 +1,6 @@
-# first
+# vue初步学习
 
-> A Vue.js project
+> 通过脚手架创建vue项目并开发项目
 
 ## Build Setup
 
